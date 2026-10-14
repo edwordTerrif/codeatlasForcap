@@ -23,8 +23,6 @@ GitHub 저장소 주소를 넣으면 파이썬 코드의 구조를 **폴더 → 
 필요한 것: **Python 3.10 이상**, GitHub 주소로 분석하려면 **git**.
 
 - Windows: `run_windows.bat` 더블클릭 → 잠시 뒤 브라우저가 `http://localhost:8000` 을 엽니다.
-- macOS / Linux: 터미널에서 `bash run_mac_linux.sh` 실행 후 `http://localhost:8000` 접속.
-
 직접 실행하고 싶다면:
 
 ```bash
